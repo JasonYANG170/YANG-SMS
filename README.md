@@ -17,7 +17,7 @@
 
 3.打开文件内的YANG SMS.exe程序，按照操作指引进行。
 
-4.请联系软件开发者YANG说明用途后获取YANG SMS Tonken许可密钥。
+4.输入密钥69763。
 
 5.进入软件输入密钥后方可运行程序。
 # 应用界面![屏幕截图(412)](https://user-images.githubusercontent.com/39414350/212810801-55678eba-035a-4860-9582-f44e5af07463.png)
